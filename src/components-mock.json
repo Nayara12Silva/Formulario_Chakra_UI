@@ -1,0 +1,15 @@
+{
+    "vertical_cards":[
+        {
+            "title":"Vertical Card",
+            "content": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado.",
+            "image":{
+                "url": "https://images.unsplash.com/photo-1673101075633-1732778c8da9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+                "alt": "Imagem de uma mulher trabalhando"
+            },
+            "publish_date":"2023/02/03"
+        }
+    ]
+
+}
+
