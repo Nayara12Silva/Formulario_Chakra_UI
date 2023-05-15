@@ -1,6 +1,6 @@
 <h1 align="center"> Formulário </h1> 
 
-Aprensento para voçês meu primeiro projeto em React JS...
+Aprensento para vocês meu primeiro projeto em React JS...
 Trata-se de um formulário para cadastro de alunos, faz parte de um projeto que esta sendo desenvolvido em sala de aula, onde estamos aplicando os conhecimentos adquiridos para desenvolver um sistema de controle Acadêmico.
 
 Para a criação do formulário eu utilizei o Chakra UI que é uma biblioteca open source de componentes simples, modular e acessível que fornece blocos de construção que você precisa para construir seus aplicativos em React, Vue, Next, Nuxt, Gastby entre outros.
